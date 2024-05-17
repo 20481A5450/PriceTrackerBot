@@ -1,0 +1,4 @@
+# Project Name: PriceTrackerBot
+# Description: A bot that tracks prices of products online.
+# Author: Zohaib Shaik
+# Version: 3.11.5
